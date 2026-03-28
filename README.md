@@ -1,0 +1,2 @@
+# GetSongSetListTool
+指定したYoutubeの歌枠を解析してセットリストを作成するツールです。
