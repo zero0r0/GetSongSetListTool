@@ -1,4 +1,5 @@
 # 🎤 歌枠セトリ自動生成ツール (YouTube Setlist Generator)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zero0r0/GetSongSetListTool/blob/main/SONG.ipynb)
 
 推し活をエンジニアリングで解決！
 YouTubeの「歌枠」アーカイブ動画から、Gemini APIを用いてタイムスタンプ付きのセットリスト（曲名 / アーティスト名）を全自動で生成するツールです。
